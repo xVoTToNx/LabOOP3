@@ -1,0 +1,15 @@
+D:\LabOOP3\LabOOP3\LabOOP3\bin\Debug\LabOOP3.exe.config
+D:\LabOOP3\LabOOP3\LabOOP3\bin\Debug\LabOOP3.exe
+D:\LabOOP3\LabOOP3\LabOOP3\bin\Debug\LabOOP3.pdb
+D:\LabOOP3\LabOOP3\LabOOP3\bin\Debug\Newtonsoft.Json.dll
+D:\LabOOP3\LabOOP3\LabOOP3\bin\Debug\Newtonsoft.Json.xml
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.csprojAssemblyReference.cache
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.Properties.Resources.resources
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.csproj.GenerateResource.cache
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.csproj.CoreCompileInputs.cache
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.csproj.CopyComplete
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.exe
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\LabOOP3.pdb
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\WinFormView.Menu.resources
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\WinFormView.PacNyan.resources
+D:\LabOOP3\LabOOP3\LabOOP3\obj\Debug\WinFormView.Settings.resources
